@@ -1,0 +1,38 @@
+:root{
+    --blue: #0a81ab;
+}
+
+.navbar{
+    padding : 2px 4%;
+    background-color : var(--blue);
+}
+
+/* home section */
+#home{
+    padding: 10% 10%;
+    text-align: center;
+    background-color: var(--blue);
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.figure > img{
+    width: 100px;
+    height: 100px;
+}
+
+.figure > .figure-caption{
+    color:black;
+}
+
+/* About us */
+#Aboutus{
+    padding : 2% 2%;
+}
+
+.Aboutusimg > img{
+    width: 75%;
+}
+
